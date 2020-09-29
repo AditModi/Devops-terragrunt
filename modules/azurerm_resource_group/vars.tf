@@ -1,5 +1,6 @@
 # Input variables for Resource Group module
 
+
 variable "environment" {
   type        = string
   default     = null
