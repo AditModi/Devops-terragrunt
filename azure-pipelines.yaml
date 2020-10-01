@@ -6,8 +6,6 @@
 # 2. Plan   - Validate and plan the infrastructure
 # 3. Deploy - Apply the changes to the infrastructure
 # ---------------------------------------------------------------------------------------------------------------------
-
-
 pool:
   vmImage: 'ubuntu-latest'
 variables:
