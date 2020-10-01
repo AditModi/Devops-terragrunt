@@ -1,5 +1,4 @@
 # This module manages an Azure App Service
-
 resource "azurerm_app_service" "app_service" {
   name                = var.name
   location            = var.location
