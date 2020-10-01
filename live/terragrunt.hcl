@@ -1,7 +1,6 @@
 locals {
   provider_version = "2.1.0"
 }
-
 # Inject the remote backend configuration in all the modules that includes the root file without having to define them in the underlying modules 
 remote_state {
   backend = "azurerm"
