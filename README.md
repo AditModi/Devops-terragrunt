@@ -3,8 +3,6 @@ A repo used to accompany devops-lecture-frontend and devops-lecture-backend and 
 
 ## Requirements
 
-
-
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 - Install [Terraform](https://learn.hashicorp.com/terraform/getting-started/install)
 - Install [Terragrunt](https://terragrunt.gruntwork.io/docs/getting-started/install/)
