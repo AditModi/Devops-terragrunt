@@ -2,6 +2,7 @@
 
 A repo used to accompany devops-lecture-frontend and devops-lecture-backend and provision the infrastructure with Terragrunt and Terraform
 
+
 ## Requirements
 
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
