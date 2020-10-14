@@ -1,6 +1,7 @@
 # devops-terragrunt
 A repo used to accompany devops-lecture-frontend and devops-lecture-backend and provision the infrastructure with Terragrunt and Terraform
 
+
 ## Requirements
 
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
@@ -8,6 +9,7 @@ A repo used to accompany devops-lecture-frontend and devops-lecture-backend and 
 - Install [Terragrunt](https://terragrunt.gruntwork.io/docs/getting-started/install/)
 
 First you will need to login with your Azure account:
+
 
 ```az login```
 
