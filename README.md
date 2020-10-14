@@ -27,6 +27,7 @@ To create the project infrastructure for the whole project run:
   terragrunt apply-all
 ```
 
+
 and then you will get a prompt that will ask if you want to apply the changes, review your changes and enter `y` if you want to apply them.
 
 If you get an error that says that some of the resources are already taken, you can use a different suffix and set it in `live\env.hcl`.
