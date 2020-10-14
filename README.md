@@ -11,7 +11,6 @@ A repo used to accompany devops-lecture-frontend and devops-lecture-backend and 
 
 First you will need to login with your Azure account:
 
-
 ```az login```
 
 Next you will need to create the remote state, before we can create the infrastructure. 
