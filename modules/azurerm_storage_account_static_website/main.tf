@@ -1,5 +1,6 @@
 # This module manages an azure storage account used to host a static website.
 
+
 resource "azurerm_storage_account" "storage_account" {
   name                = var.name
   resource_group_name = var.resource_group_name
