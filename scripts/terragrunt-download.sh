@@ -6,6 +6,7 @@
 # TERRAGRUNT_DOWNLOAD_SHA - The sha256sum of the downloaded file
 # ---------------------------------------------------------------------------------------------------------------------
 
+
 #!/usr/bin/env bash
 set -euo pipefail
 
